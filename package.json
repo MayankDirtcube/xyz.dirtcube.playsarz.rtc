@@ -1,0 +1,17 @@
+{
+    "name": "xyz.dirtcube.playstarz.rtc",
+    "version": "1.2.3",
+    "displayName": "Realtime communication",
+    "description": "Common package for realtime communication like voice call and video call",
+    "unity": "2021.1",
+    "unityRelease": "0b5",
+    "documentationUrl": "https://example.com/",
+    "changelogUrl": "https://example.com/changelog.html",
+    "licensesUrl": "https://example.com/licensing.html",
+   
+    "author": {
+      "name": "Mayank Rathod",
+      "email": "mayank@dirtcube.xyz",
+      "url": "https://www.dirtcube.xyz"
+    }
+  }
